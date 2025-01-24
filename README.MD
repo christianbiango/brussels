@@ -42,7 +42,7 @@ Lancez en ligne de commandes `deactivate`
 
 ### Récupérer les variables d'envrionnement
 
-Renommez le fichier `.env.example` en `.env` et demandez au développeur les valeurs à indiquer pour chaque variable.
+Renommez le fichier `.env.example` en `.env` et demandez au développeur (sur Discord) les valeurs à indiquer pour chaque variable.
 
 ### Exécuter le script principal
 

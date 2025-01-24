@@ -11,3 +11,7 @@ MONGO_ENV = {
 COLLECTION_ENV = {
     "DATA_COLLECTION": os.getenv("DATA_COLLECTION"),
 }
+
+ENDPOINT_ENV = {
+    "BASE_URL": os.getenv("BASE_URL"),
+}
