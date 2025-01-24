@@ -1,0 +1,9 @@
+services:
+  mongo:
+    image: mongo:latest
+    container_name: brussels_mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./brussels_mongo:/data/db
+    restart: always

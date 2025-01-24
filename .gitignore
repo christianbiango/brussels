@@ -1,0 +1,9 @@
+# Docker
+brussels_mongo
+
+# secrets
+.env
+
+# python
+__pycache__
+.venv
