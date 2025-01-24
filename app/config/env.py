@@ -7,3 +7,7 @@ MONGO_ENV = {
     "MONGO_URI": os.getenv("MONGO_URI"),
     "DB_NAME": os.getenv("DB_NAME"),
 }
+
+COLLECTION_ENV = {
+    "DATA_COLLECTION": os.getenv("DATA_COLLECTION"),
+}

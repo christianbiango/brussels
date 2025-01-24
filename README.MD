@@ -52,6 +52,10 @@ Il suffit d'exécuter le script principal en ligne de commandes :
 
 > Note : en ligne de commandes, il se peut que vous ayez à remplacer `python` par `py`, `python3` ou `python3.11` selon la version de python que vous utilisez sur votre machine.
 
+### Création de la collection Mongno
+
+La collection Mongo est automatiquement créée lors de l'exécution du script principal.
+
 ## Version de python
 
 Développé en [python3](https://www.python.org/download/releases/3.0/)

@@ -7,3 +7,6 @@ brussels_mongo
 # python
 __pycache__
 .venv
+
+## OS
+.DS_Store
